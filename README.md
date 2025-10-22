@@ -54,3 +54,4 @@ Melhor experiência do usuário (UX) e performance da aplicação (UI) também.
 By SENAI - Francisco Magalhães  
 Version - BETA
 Tecnologias: HTML5, CSS3, Bootstrap, jQuery, JavaScript.
+
